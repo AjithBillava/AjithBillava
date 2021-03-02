@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am Ajith, currrently working in 🏢TCS as a graduate trainee.
+I am an aspiring web developer, currently learning react✌.
 <!--
 **AjithBillava/AjithBillava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
